@@ -42,4 +42,15 @@ h4 {
 .more {
   border-bottom: 1px solid black;
   padding-bottom: 16px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 15px;
+}
+body {
+  background: #696969;
 }
