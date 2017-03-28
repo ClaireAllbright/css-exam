@@ -1,12 +1,12 @@
 h1 {
-  margin-bottom: 0px;
+  margin: 0px;
 }
 h3 {
   margin-top: 0px;
   font-style: italic;
 }
 .byline {
-  font-size: 12px;
+  font-size: 10px;
   color: grey;
   text-transform: uppercase;
   margin-top: 0px;
@@ -15,8 +15,11 @@ h3 {
 .headline {
   font-size: 24px;
 }
-a {
+.orange {
   color: #BF5700;
+}
+.blue {
+  color: #0000ff
 }
 h4 {
   margin-bottom: 0px;
@@ -36,14 +39,16 @@ h4 {
   margin: 0px;
 }
 .pulitzer .byline {
-  font-size: 14px;
+  font-size: 12px;
   margin: 0px;
 }
 .more {
   border-bottom: 1px solid black;
-  padding-bottom: 16px;
-  margin-top: 30px;
+  padding-bottom: 5px;
   margin-bottom: 0px;
+}
+ul {
+  margin-top: 5px;
 }
 .container {
   max-width: 800px;
