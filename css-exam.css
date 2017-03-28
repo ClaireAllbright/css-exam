@@ -24,3 +24,16 @@ h4 {
 .teaser {
   margin-top: 0px;
 }
+.pulitzer {
+  background-color: #E5E4E2;
+  padding: 10px;
+}
+.pulitzer h4 {
+  margin: 0px;
+}
+.pulitzer .headline {
+  font-size: 28px;
+}
+.pulitzer .byline {
+  font-size: 14px;
+}
