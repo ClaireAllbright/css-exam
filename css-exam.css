@@ -26,14 +26,20 @@ h4 {
 }
 .pulitzer {
   background-color: #E5E4E2;
-  padding: 10px;
+  padding: 15px;
 }
-.pulitzer h4 {
+.pulitzer .teaser{
   margin: 0px;
 }
 .pulitzer .headline {
   font-size: 28px;
+  margin: 0px;
 }
 .pulitzer .byline {
   font-size: 14px;
+  margin: 0px;
+}
+.more {
+  border-bottom: 1px solid black;
+  padding-bottom: 16px;
 }
